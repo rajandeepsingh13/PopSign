@@ -1,0 +1,22 @@
+{
+	"bluefileName":"high",
+	"blueframeNumber":58,
+	"bluefolderName":"MacarthurBates/DescriptiveWords/high",
+	"blueImageName":"WordIcons/high",
+	"greenfileName":"awake",
+	"greenframeNumber":41,
+	"greenfolderName":"MacarthurBates/DescriptiveWords/awake",
+	"greenImageName":"WordIcons/awake",
+	"redfileName":"red",
+	"redframeNumber":45,
+	"redfolderName":"MacarthurBates/DescriptiveWords/red",
+	"redImageName":"WordIcons/red",
+	"violetfileName":"heavy",
+	"violetframeNumber":60,
+	"violetfolderName":"MacarthurBates/DescriptiveWords/heavy",
+	"violetImageName":"WordIcons/heavy",
+	"yellowfileName":"long",
+	"yellowframeNumber":69,
+	"yellowfolderName":"MacarthurBates/DescriptiveWords/long",
+	"yellowImageName":"WordIcons/long"
+}

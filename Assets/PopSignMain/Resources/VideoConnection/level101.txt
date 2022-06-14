@@ -1,0 +1,22 @@
+{
+	"bluefileName":"raisin",
+	"blueframeNumber":61,
+	"bluefolderName":"MacarthurBates/FoodAndDrink/raisin",
+	"blueImageName":"WordIcons/raisin",
+	"greenfileName":"food",
+	"greenframeNumber":27,
+	"greenfolderName":"MacarthurBates/FoodAndDrink/food",
+	"greenImageName":"WordIcons/food",
+	"redfileName":"pancake",
+	"redframeNumber":86,
+	"redfolderName":"MacarthurBates/FoodAndDrink/pancake",
+	"redImageName":"WordIcons/pancake",
+	"violetfileName":"cheese",
+	"violetframeNumber":86,
+	"violetfolderName":"MacarthurBates/FoodAndDrink/cheese",
+	"violetImageName":"WordIcons/cheese",
+	"yellowfileName":"orange",
+	"yellowframeNumber":76,
+	"yellowfolderName":"MacarthurBates/FoodAndDrink/orange",
+	"yellowImageName":"WordIcons/orange"
+}

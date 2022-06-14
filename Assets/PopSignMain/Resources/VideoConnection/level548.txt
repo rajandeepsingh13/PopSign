@@ -1,0 +1,22 @@
+{
+	"bluefileName":"radio",
+	"blueframeNumber":68,
+	"bluefolderName":"MacarthurBates/SmallObjects/radio",
+	"blueImageName":"WordIcons/radio",
+	"greenfileName":"scissor",
+	"greenframeNumber":55,
+	"greenfolderName":"MacarthurBates/SmallObjects/scissor",
+	"greenImageName":"WordIcons/scissor",
+	"redfileName":"spoon",
+	"redframeNumber":186,
+	"redfolderName":"MacarthurBates/SmallObjects/spoon",
+	"redImageName":"WordIcons/spoon",
+	"violetfileName":"garbage,trash",
+	"violetframeNumber":54,
+	"violetfolderName":"MacarthurBates/SmallObjects/garbage,trash",
+	"violetImageName":"WordIcons/garbage,trash",
+	"yellowfileName":"pillow",
+	"yellowframeNumber":61,
+	"yellowfolderName":"MacarthurBates/SmallObjects/pillow",
+	"yellowImageName":"WordIcons/pillow"
+}

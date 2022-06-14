@@ -1,0 +1,22 @@
+{
+	"bluefileName":"pie",
+	"blueframeNumber":73,
+	"bluefolderName":"MacarthurBates/FoodAndDrink/pie",
+	"blueImageName":"WordIcons/pie",
+	"greenfileName":"peanut butter",
+	"greenframeNumber":88,
+	"greenfolderName":"MacarthurBates/FoodAndDrink/peanut butter",
+	"greenImageName":"WordIcons/peanut butter",
+	"redfileName":"ice cream",
+	"redframeNumber":88,
+	"redfolderName":"MacarthurBates/FoodAndDrink/ice cream",
+	"redImageName":"WordIcons/ice cream",
+	"violetfileName":"chocolate",
+	"violetframeNumber":69,
+	"violetfolderName":"MacarthurBates/FoodAndDrink/chocolate",
+	"violetImageName":"WordIcons/chocolate",
+	"yellowfileName":"donut",
+	"yellowframeNumber":86,
+	"yellowfolderName":"MacarthurBates/FoodAndDrink/donut",
+	"yellowImageName":"WordIcons/donut"
+}

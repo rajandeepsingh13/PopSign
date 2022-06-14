@@ -1,0 +1,22 @@
+{
+	"bluefileName":"box",
+	"blueframeNumber":72,
+	"bluefolderName":"MacarthurBates/SmallObjects/box",
+	"blueImageName":"WordIcons/box",
+	"greenfileName":"tray",
+	"greenframeNumber":72,
+	"greenfolderName":"MacarthurBates/SmallObjects/tray",
+	"greenImageName":"WordIcons/tray",
+	"redfileName":"washcloth",
+	"redframeNumber":72,
+	"redfolderName":"MacarthurBates/SmallObjects/washcloth",
+	"redImageName":"WordIcons/washcloth",
+	"violetfileName":"cup-tea",
+	"violetframeNumber":56,
+	"violetfolderName":"MacarthurBates/SmallObjects/cup-tea",
+	"violetImageName":"WordIcons/cup-tea",
+	"yellowfileName":"mop",
+	"yellowframeNumber":109,
+	"yellowfolderName":"MacarthurBates/SmallObjects/mop",
+	"yellowImageName":"WordIcons/mop"
+}

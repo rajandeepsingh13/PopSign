@@ -1,0 +1,22 @@
+{
+	"bluefileName":"shiver,cold",
+	"blueframeNumber":54,
+	"bluefolderName":"MacarthurBates/ActionWords/shiver,cold",
+	"blueImageName":"WordIcons/shiver,cold",
+	"greenfileName":"wash",
+	"greenframeNumber":69,
+	"greenfolderName":"MacarthurBates/ActionWords/wash",
+	"greenImageName":"WordIcons/wash",
+	"redfileName":"ride",
+	"redframeNumber":65,
+	"redfolderName":"MacarthurBates/ActionWords/ride",
+	"redImageName":"WordIcons/ride",
+	"violetfileName":"break",
+	"violetframeNumber":49,
+	"violetfolderName":"MacarthurBates/ActionWords/break",
+	"violetImageName":"WordIcons/break",
+	"yellowfileName":"open",
+	"yellowframeNumber":59,
+	"yellowfolderName":"MacarthurBates/ActionWords/open",
+	"yellowImageName":"WordIcons/open"
+}

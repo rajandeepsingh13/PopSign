@@ -1,0 +1,22 @@
+{
+	"bluefileName":"sandwich",
+	"blueframeNumber":88,
+	"bluefolderName":"MacarthurBates/FoodAndDrink/sandwich",
+	"blueImageName":"WordIcons/sandwich",
+	"greenfileName":"egg",
+	"greenframeNumber":45,
+	"greenfolderName":"MacarthurBates/FoodAndDrink/egg",
+	"greenImageName":"WordIcons/egg",
+	"redfileName":"bean,pea",
+	"redframeNumber":102,
+	"redfolderName":"MacarthurBates/FoodAndDrink/bean,pea",
+	"redImageName":"WordIcons/bean,pea",
+	"violetfileName":"jello",
+	"violetframeNumber":66,
+	"violetfolderName":"MacarthurBates/FoodAndDrink/jello",
+	"violetImageName":"WordIcons/jello",
+	"yellowfileName":"pizza",
+	"yellowframeNumber":73,
+	"yellowfolderName":"MacarthurBates/FoodAndDrink/pizza",
+	"yellowImageName":"WordIcons/pizza"
+}

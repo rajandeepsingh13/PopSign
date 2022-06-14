@@ -1,0 +1,22 @@
+{
+	"bluefileName":"yellow",
+	"blueframeNumber":53,
+	"bluefolderName":"MacarthurBates/DescriptiveWords/yellow",
+	"blueImageName":"WordIcons/yellow",
+	"greenfileName":"dry",
+	"greenframeNumber":83,
+	"greenfolderName":"MacarthurBates/ActionWords/dry",
+	"greenImageName":"WordIcons/dry",
+	"redfileName":"empty",
+	"redframeNumber":47,
+	"redfolderName":"MacarthurBates/DescriptiveWords/empty",
+	"redImageName":"WordIcons/empty",
+	"violetfileName":"slow",
+	"violetframeNumber":63,
+	"violetfolderName":"MacarthurBates/DescriptiveWords/slow",
+	"violetImageName":"WordIcons/slow",
+	"yellowfileName":"windy",
+	"yellowframeNumber":72,
+	"yellowfolderName":"MacarthurBates/DescriptiveWords/windy",
+	"yellowImageName":"WordIcons/windy"
+}

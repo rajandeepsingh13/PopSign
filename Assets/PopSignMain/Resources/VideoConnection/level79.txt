@@ -1,0 +1,22 @@
+{
+	"bluefileName":"quiet",
+	"blueframeNumber":46,
+	"bluefolderName":"MacarthurBates/DescriptiveWords/quiet",
+	"blueImageName":"WordIcons/quiet",
+	"greenfileName":"good",
+	"greenframeNumber":40,
+	"greenfolderName":"MacarthurBates/DescriptiveWords/good",
+	"greenImageName":"WordIcons/good",
+	"redfileName":"dark",
+	"redframeNumber":63,
+	"redfolderName":"MacarthurBates/DescriptiveWords/dark",
+	"redImageName":"WordIcons/dark",
+	"violetfileName":"loud",
+	"violetframeNumber":59,
+	"violetfolderName":"MacarthurBates/DescriptiveWords/loud",
+	"violetImageName":"WordIcons/loud",
+	"yellowfileName":"strawberry",
+	"yellowframeNumber":69,
+	"yellowfolderName":"MacarthurBates/FoodAndDrink/strawberry",
+	"yellowImageName":"WordIcons/strawberry"
+}

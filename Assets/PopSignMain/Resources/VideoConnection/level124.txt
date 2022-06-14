@@ -1,0 +1,22 @@
+{
+	"bluefileName":"hamburger",
+	"blueframeNumber":61,
+	"bluefolderName":"MacarthurBates/FoodAndDrink/hamburger",
+	"blueImageName":"WordIcons/hamburger",
+	"greenfileName":"cake",
+	"greenframeNumber":63,
+	"greenfolderName":"MacarthurBates/FoodAndDrink/cake",
+	"greenImageName":"WordIcons/cake",
+	"redfileName":"pickle",
+	"redframeNumber":93,
+	"redfolderName":"MacarthurBates/FoodAndDrink/pickle",
+	"redImageName":"WordIcons/pickle",
+	"violetfileName":"vanilla",
+	"violetframeNumber":83,
+	"violetfolderName":"MacarthurBates/FoodAndDrink/vanilla",
+	"violetImageName":"WordIcons/vanilla",
+	"yellowfileName":"coffee",
+	"yellowframeNumber":90,
+	"yellowfolderName":"MacarthurBates/FoodAndDrink/coffee",
+	"yellowImageName":"WordIcons/coffee"
+}

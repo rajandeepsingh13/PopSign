@@ -1,0 +1,22 @@
+{
+	"bluefileName":"washing machine",
+	"blueframeNumber":78,
+	"bluefolderName":"MacarthurBates/Household/washing machine",
+	"blueImageName":"WordIcons/washing machine",
+	"greenfileName":"playpen",
+	"greenframeNumber":113,
+	"greenfolderName":"MacarthurBates/Household/playpen",
+	"greenImageName":"WordIcons/playpen",
+	"redfileName":"stove",
+	"redframeNumber":84,
+	"redfolderName":"MacarthurBates/Household/stove",
+	"redImageName":"WordIcons/stove",
+	"violetfileName":"refrigerator",
+	"violetframeNumber":83,
+	"violetfolderName":"MacarthurBates/Household/refrigerator",
+	"violetImageName":"WordIcons/refrigerator",
+	"yellowfileName":"door",
+	"yellowframeNumber":77,
+	"yellowfolderName":"MacarthurBates/Household/door",
+	"yellowImageName":"WordIcons/door"
+}

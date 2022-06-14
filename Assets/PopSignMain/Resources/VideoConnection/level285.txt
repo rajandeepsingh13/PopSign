@@ -1,0 +1,22 @@
+{
+	"bluefileName":"alligator",
+	"blueframeNumber":90,
+	"bluefolderName":"MacarthurBates/Animals/alligator",
+	"blueImageName":"WordIcons/alligator",
+	"greenfileName":"squirrel",
+	"greenframeNumber":53,
+	"greenfolderName":"MacarthurBates/Animals/squirrel",
+	"greenImageName":"WordIcons/squirrel",
+	"redfileName":"cat",
+	"redframeNumber":60,
+	"redfolderName":"MacarthurBates/Animals/cat",
+	"redImageName":"WordIcons/cat",
+	"violetfileName":"goose",
+	"violetframeNumber":65,
+	"violetfolderName":"MacarthurBates/Animals/goose",
+	"violetImageName":"WordIcons/goose",
+	"yellowfileName":"wolf",
+	"yellowframeNumber":51,
+	"yellowfolderName":"MacarthurBates/Animals/wolf",
+	"yellowImageName":"WordIcons/wolf"
+}

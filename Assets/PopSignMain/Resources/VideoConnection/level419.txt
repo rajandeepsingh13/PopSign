@@ -1,0 +1,22 @@
+{
+	"bluefileName":"fix",
+	"blueframeNumber":77,
+	"bluefolderName":"MacarthurBates/ActionWords/fix",
+	"blueImageName":"WordIcons/fix",
+	"greenfileName":"splash",
+	"greenframeNumber":67,
+	"greenfolderName":"MacarthurBates/ActionWords/splash",
+	"greenImageName":"WordIcons/splash",
+	"redfileName":"blow",
+	"redframeNumber":72,
+	"redfolderName":"MacarthurBates/ActionWords/blow",
+	"redImageName":"WordIcons/blow",
+	"violetfileName":"find",
+	"violetframeNumber":59,
+	"violetfolderName":"MacarthurBates/ActionWords/find",
+	"violetImageName":"WordIcons/find",
+	"yellowfileName":"eat",
+	"yellowframeNumber":72,
+	"yellowfolderName":"MacarthurBates/ActionWords/eat",
+	"yellowImageName":"WordIcons/eat"
+}

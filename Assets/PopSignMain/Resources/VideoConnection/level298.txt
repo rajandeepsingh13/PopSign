@@ -1,0 +1,22 @@
+{
+	"bluefileName":"cow",
+	"blueframeNumber":63,
+	"bluefolderName":"MacarthurBates/Animals/cow",
+	"blueImageName":"WordIcons/cow",
+	"greenfileName":"bird",
+	"greenframeNumber":72,
+	"greenfolderName":"MacarthurBates/Animals/bird",
+	"greenImageName":"WordIcons/bird",
+	"redfileName":"turkey",
+	"redframeNumber":46,
+	"redfolderName":"MacarthurBates/Animals/turkey",
+	"redImageName":"WordIcons/turkey",
+	"violetfileName":"pony",
+	"violetframeNumber":73,
+	"violetfolderName":"MacarthurBates/Animals/pony",
+	"violetImageName":"WordIcons/pony",
+	"yellowfileName":"zebra",
+	"yellowframeNumber":59,
+	"yellowfolderName":"MacarthurBates/Animals/zebra",
+	"yellowImageName":"WordIcons/zebra"
+}

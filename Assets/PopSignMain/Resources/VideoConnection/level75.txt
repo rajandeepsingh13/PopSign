@@ -1,0 +1,22 @@
+{
+	"bluefileName":"stuck",
+	"blueframeNumber":63,
+	"bluefolderName":"MacarthurBates/DescriptiveWords/stuck",
+	"blueImageName":"WordIcons/stuck",
+	"greenfileName":"pretty",
+	"greenframeNumber":60,
+	"greenfolderName":"MacarthurBates/DescriptiveWords/pretty",
+	"greenImageName":"WordIcons/pretty",
+	"redfileName":"dirty",
+	"redframeNumber":74,
+	"redfolderName":"MacarthurBates/DescriptiveWords/dirty",
+	"redImageName":"WordIcons/dirty",
+	"violetfileName":"little",
+	"violetframeNumber":49,
+	"violetfolderName":"MacarthurBates/DescriptiveWords/little",
+	"violetImageName":"WordIcons/little",
+	"yellowfileName":"tiny",
+	"yellowframeNumber":58,
+	"yellowfolderName":"MacarthurBates/DescriptiveWords/tiny",
+	"yellowImageName":"WordIcons/tiny"
+}

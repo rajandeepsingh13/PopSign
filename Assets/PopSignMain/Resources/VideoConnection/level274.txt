@@ -1,0 +1,22 @@
+{
+	"bluefileName":"puppy",
+	"blueframeNumber":76,
+	"bluefolderName":"MacarthurBates/Animals/puppy",
+	"blueImageName":"WordIcons/puppy",
+	"greenfileName":"moose",
+	"greenframeNumber":59,
+	"greenfolderName":"MacarthurBates/Animals/moose",
+	"greenImageName":"WordIcons/moose",
+	"redfileName":"monkey",
+	"redframeNumber":76,
+	"redfolderName":"MacarthurBates/Animals/monkey",
+	"redImageName":"WordIcons/monkey",
+	"violetfileName":"lamb",
+	"violetframeNumber":73,
+	"violetfolderName":"MacarthurBates/Animals/lamb",
+	"violetImageName":"WordIcons/lamb",
+	"yellowfileName":"giraffe",
+	"yellowframeNumber":60,
+	"yellowfolderName":"MacarthurBates/Animals/giraffe",
+	"yellowImageName":"WordIcons/giraffe"
+}

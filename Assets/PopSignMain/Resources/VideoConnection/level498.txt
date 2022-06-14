@@ -1,0 +1,22 @@
+{
+	"bluefileName":"ball",
+	"blueframeNumber":99,
+	"bluefolderName":"MacarthurBates/School/ball",
+	"blueImageName":"WordIcons/ball",
+	"greenfileName":"game",
+	"greenframeNumber":50,
+	"greenfolderName":"MacarthurBates/School/game",
+	"greenImageName":"WordIcons/game",
+	"redfileName":"lunch",
+	"redframeNumber":54,
+	"redfolderName":"MacarthurBates/Games/lunch",
+	"redImageName":"WordIcons/lunch",
+	"violetfileName":"thanks",
+	"violetframeNumber":47,
+	"violetfolderName":"MacarthurBates/Games/thanks",
+	"violetImageName":"WordIcons/thanks",
+	"yellowfileName":"breakfast",
+	"yellowframeNumber":63,
+	"yellowfolderName":"MacarthurBates/Games/breakfast",
+	"yellowImageName":"WordIcons/breakfast"
+}

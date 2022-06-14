@@ -1,0 +1,22 @@
+{
+	"bluefileName":"sandbox",
+	"blueframeNumber":61,
+	"bluefolderName":"MacarthurBates/OutsideThings/sandbox",
+	"blueImageName":"WordIcons/sandbox",
+	"greenfileName":"roof",
+	"greenframeNumber":47,
+	"greenfolderName":"MacarthurBates/OutsideThings/roof",
+	"greenImageName":"WordIcons/roof",
+	"redfileName":"moon",
+	"redframeNumber":57,
+	"redfolderName":"MacarthurBates/OutsideThings/moon",
+	"redImageName":"WordIcons/moon",
+	"violetfileName":"grass",
+	"violetframeNumber":65,
+	"violetfolderName":"MacarthurBates/OutsideThings/grass",
+	"violetImageName":"WordIcons/grass",
+	"yellowfileName":"garden",
+	"yellowframeNumber":93,
+	"yellowfolderName":"MacarthurBates/OutsideThings/garden",
+	"yellowImageName":"WordIcons/garden"
+}

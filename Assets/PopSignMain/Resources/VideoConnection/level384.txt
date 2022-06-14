@@ -1,0 +1,22 @@
+{
+	"bluefileName":"hurry",
+	"blueframeNumber":67,
+	"bluefolderName":"MacarthurBates/ActionWords/hurry",
+	"blueImageName":"WordIcons/hurry",
+	"greenfileName":"swim",
+	"greenframeNumber":65,
+	"greenfolderName":"MacarthurBates/ActionWords/swim",
+	"greenImageName":"WordIcons/swim",
+	"redfileName":"kick",
+	"redframeNumber":63,
+	"redfolderName":"MacarthurBates/ActionWords/kick",
+	"redImageName":"WordIcons/kick",
+	"violetfileName":"tickle",
+	"violetframeNumber":51,
+	"violetfolderName":"MacarthurBates/ActionWords/tickle",
+	"violetImageName":"WordIcons/tickle",
+	"yellowfileName":"pull",
+	"yellowframeNumber":49,
+	"yellowfolderName":"MacarthurBates/ActionWords/pull",
+	"yellowImageName":"WordIcons/pull"
+}

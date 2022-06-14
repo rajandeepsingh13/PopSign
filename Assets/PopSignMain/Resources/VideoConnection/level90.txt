@@ -1,0 +1,22 @@
+{
+	"bluefileName":"banana",
+	"blueframeNumber":83,
+	"bluefolderName":"MacarthurBates/FoodAndDrink/banana",
+	"blueImageName":"WordIcons/banana",
+	"greenfileName":"peanut,nut",
+	"greenframeNumber":83,
+	"greenfolderName":"MacarthurBates/FoodAndDrink/peanut,nut",
+	"greenImageName":"WordIcons/peanut,nut",
+	"redfileName":"juice",
+	"redframeNumber":55,
+	"redfolderName":"MacarthurBates/FoodAndDrink/juice",
+	"redImageName":"WordIcons/juice",
+	"violetfileName":"toast",
+	"violetframeNumber":65,
+	"violetfolderName":"MacarthurBates/FoodAndDrink/toast",
+	"violetImageName":"WordIcons/toast",
+	"yellowfileName":"soup",
+	"yellowframeNumber":73,
+	"yellowfolderName":"MacarthurBates/FoodAndDrink/soup",
+	"yellowImageName":"WordIcons/soup"
+}

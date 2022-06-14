@@ -1,0 +1,22 @@
+{
+	"bluefileName":"bug",
+	"blueframeNumber":65,
+	"bluefolderName":"MacarthurBates/Animals/bug",
+	"blueImageName":"WordIcons/bug",
+	"greenfileName":"bear",
+	"greenframeNumber":58,
+	"greenfolderName":"MacarthurBates/Animals/bear",
+	"greenImageName":"WordIcons/bear",
+	"redfileName":"fish",
+	"redframeNumber":60,
+	"redfolderName":"MacarthurBates/Animals/fish",
+	"redImageName":"WordIcons/fish",
+	"violetfileName":"pig",
+	"violetframeNumber":56,
+	"violetfolderName":"MacarthurBates/Animals/pig",
+	"violetImageName":"WordIcons/pig",
+	"yellowfileName":"animal",
+	"yellowframeNumber":98,
+	"yellowfolderName":"MacarthurBates/Animals/animal",
+	"yellowImageName":"WordIcons/animal"
+}

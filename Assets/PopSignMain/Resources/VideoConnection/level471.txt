@@ -1,0 +1,22 @@
+{
+	"bluefileName":"buy",
+	"blueframeNumber":84,
+	"bluefolderName":"MacarthurBates/ActionWords/buy",
+	"blueImageName":"WordIcons/buy",
+	"greenfileName":"feed",
+	"greenframeNumber":86,
+	"greenfolderName":"MacarthurBates/ActionWords/feed",
+	"greenImageName":"WordIcons/feed",
+	"redfileName":"slip",
+	"redframeNumber":45,
+	"redfolderName":"MacarthurBates/ActionWords/slip",
+	"redImageName":"WordIcons/slip",
+	"violetfileName":"touch",
+	"violetframeNumber":39,
+	"violetfolderName":"MacarthurBates/ActionWords/touch",
+	"violetImageName":"WordIcons/touch",
+	"yellowfileName":"get",
+	"yellowframeNumber":65,
+	"yellowfolderName":"MacarthurBates/ActionWords/get",
+	"yellowImageName":"WordIcons/get"
+}

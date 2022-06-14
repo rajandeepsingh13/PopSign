@@ -1,0 +1,22 @@
+{
+	"bluefileName":"medicine",
+	"blueframeNumber":68,
+	"bluefolderName":"MacarthurBates/SmallObjects/medicine",
+	"blueImageName":"WordIcons/medicine",
+	"greenfileName":"dish,plate",
+	"greenframeNumber":51,
+	"greenfolderName":"MacarthurBates/SmallObjects/dish,plate",
+	"greenImageName":"WordIcons/dish,plate",
+	"redfileName":"bottle",
+	"redframeNumber":90,
+	"redfolderName":"MacarthurBates/SmallObjects/bottle",
+	"redImageName":"WordIcons/bottle",
+	"violetfileName":"bowl",
+	"violetframeNumber":49,
+	"violetfolderName":"MacarthurBates/SmallObjects/bowl",
+	"violetImageName":"WordIcons/bowl",
+	"yellowfileName":"glass-window",
+	"yellowframeNumber":36,
+	"yellowfolderName":"MacarthurBates/SmallObjects/glass-window",
+	"yellowImageName":"WordIcons/glass-window"
+}

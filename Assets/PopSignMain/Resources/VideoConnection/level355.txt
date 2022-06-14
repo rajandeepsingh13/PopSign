@@ -1,0 +1,22 @@
+{
+	"bluefileName":"sled",
+	"blueframeNumber":81,
+	"bluefolderName":"MacarthurBates/Vehicles/sled",
+	"blueImageName":"WordIcons/sled",
+	"greenfileName":"toilet",
+	"greenframeNumber":47,
+	"greenfolderName":"MacarthurBates/Household/toilet",
+	"greenImageName":"WordIcons/toilet",
+	"redfileName":"stairs",
+	"redframeNumber":68,
+	"redfolderName":"MacarthurBates/Household/stairs",
+	"redImageName":"WordIcons/stairs",
+	"violetfileName":"kitchen",
+	"violetframeNumber":70,
+	"violetfolderName":"MacarthurBates/Household/kitchen",
+	"violetImageName":"WordIcons/kitchen",
+	"yellowfileName":"garage",
+	"yellowframeNumber":63,
+	"yellowfolderName":"MacarthurBates/Household/garage",
+	"yellowImageName":"WordIcons/garage"
+}

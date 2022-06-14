@@ -1,0 +1,22 @@
+{
+	"bluefileName":"boot",
+	"blueframeNumber":74,
+	"bluefolderName":"MacarthurBates/Clothing/boot",
+	"blueImageName":"WordIcons/boot",
+	"greenfileName":"sneaker",
+	"greenframeNumber":65,
+	"greenfolderName":"MacarthurBates/Clothing/sneaker",
+	"greenImageName":"WordIcons/sneaker",
+	"redfileName":"underwear",
+	"redframeNumber":84,
+	"redfolderName":"MacarthurBates/Clothing/underwear",
+	"redImageName":"WordIcons/underwear",
+	"violetfileName":"sock",
+	"violetframeNumber":67,
+	"violetfolderName":"MacarthurBates/Clothing/sock",
+	"violetImageName":"WordIcons/sock",
+	"yellowfileName":"pants",
+	"yellowframeNumber":79,
+	"yellowfolderName":"MacarthurBates/Clothing/pants",
+	"yellowImageName":"WordIcons/pants"
+}
