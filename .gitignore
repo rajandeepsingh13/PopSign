@@ -72,3 +72,7 @@ crashlytics-build.properties
 
 # Mac files
 .DS_Store
+
+# MediaPipeUnityPlugin files
+Packages/com.github.homuler.mediapipe/Runtime/Plugins/Android/mediapipe_android.aar
+Packages/com.github.homuler.mediapipe/Runtime/Plugins/iOS/MediaPipeUnity.framework/MediaPipeUnity
