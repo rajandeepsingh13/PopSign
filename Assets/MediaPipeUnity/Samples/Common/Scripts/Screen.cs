@@ -29,11 +29,11 @@ namespace Mediapipe.Unity
     public void Initialize(ImageSource imageSource)
     {
       _imageSource = imageSource;
-
       Resize(_imageSource.textureWidth, _imageSource.textureHeight);
       Rotate(_imageSource.rotation.Reverse());
       ResetUvRect(RunningMode.Async);
       texture = imageSource.GetCurrentTexture();
+      Debug.Log(_imageSource.isFrontFacing);
     }
 
     public void Resize(int width, int height)
